@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Symmetric", "Symmetric", "{459FEE75-6A1F-4618-9AD2-9232616B4691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptography.Symmetric", "Criptoggraphy.Symmetric\Criptography.Symmetric.csproj", "{6931F3E0-D80D-4B70-B85C-CD29C6C2AAC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6931F3E0-D80D-4B70-B85C-CD29C6C2AAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6931F3E0-D80D-4B70-B85C-CD29C6C2AAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6931F3E0-D80D-4B70-B85C-CD29C6C2AAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6931F3E0-D80D-4B70-B85C-CD29C6C2AAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54681B02-10B0-4D1F-8A3B-701EB29D7462}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6931F3E0-D80D-4B70-B85C-CD29C6C2AAC3} = {459FEE75-6A1F-4618-9AD2-9232616B4691}
+	EndGlobalSection
+EndGlobal
